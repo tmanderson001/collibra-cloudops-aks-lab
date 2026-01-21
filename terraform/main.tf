@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "rg" {
-  name     = "collibra-cloudops-rg"
+  name     = "collibra-cloudops-rg-01"
   location = "eastus"
 }
 
